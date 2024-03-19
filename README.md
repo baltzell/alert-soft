@@ -6,7 +6,7 @@
 * ALERT sensitive volumes record GEANT hits and output in GEMC truth bank
 * ADC/TDC banks also output from GEMC
   * With sector/layer/component/order
-  * Contents/schema not final, pending real data(?)
+  * Finalizing dependent on data from the hardware?
 * AHDC
   * Perpindicular drift time propogation
   * Some energy attenuation
