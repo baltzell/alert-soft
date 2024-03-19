@@ -12,11 +12,17 @@
 
 
 # Online
+What exactly is required to confirm ALERT is recording good data?
+## Existing tools
+* slow controls
+* mon12/hydra https://github.com/jeffersonlab/mon12
+  * information is limited to ADC/TDC banks
+  * visualize 1/2-D histograms
+* ced
+* online recon
 
 # Calibration 
-
-# Alignment 
-
-## Internal 
-
-## Global 
+## ALERT Suite
+## Alignment 
+### Global 
+### Internal 
