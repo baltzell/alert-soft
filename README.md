@@ -12,11 +12,14 @@
 
 # Reconstruction (COATJAVA)
 ## ATOF
+* Nothing exists yet
+1. Use geometry service to retrieve positions and dimensions of scintillator hits
+1. Convert ADC/TDC to GeV/ns
 ## AHDC
 * Simple clustering and track finding exists
-* Is a simple, helical fit currently available?
 * Kalmna filtering exists
-  * parameters require tuning, e.g., uncertainties
+  * parameters require tuning, e.g., uncertainties, currently copied from an RTPC
+* Simple, helicial fit is currently not available (?)
 
 # Online
 What exactly is required to confirm ALERT is recording good data?
