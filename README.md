@@ -10,7 +10,7 @@
 * AHDC
   * Perpindicular drift time propogation
   * Some energy attenuation
-  * Time-to-distance/DOCA(?) in GEMC in progress, based on Garfield
+  * Time-to-distance/DOCA(?) in progress, based on Garfield
 * ATOF
   * Some light propagation time and energy attenuation exists
   * A photo-electron efficiency exists
