@@ -35,7 +35,6 @@ Nothing exists yet
   * visualize 1/2-D histograms
 * ced
   * 2D/3D visualization of ADC/TDC hits
-  * offline it can draw tracks, clusters, etc. 
 * online recon
   * runs CLARA services 
   * single events with extrememly long processing times cause issues
