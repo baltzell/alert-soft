@@ -8,6 +8,8 @@
   * With sector/layer/component/order
   * Contents/schema not final, pending real data(?)
 * AHDC
+  * Perpindicular drift time propogation
+  * Some energy attenuation
   * Time-to-distance/DOCA(?) in GEMC in progress, based on Garfield
   * Conversion from GeV to ADC?
 * ATOF
