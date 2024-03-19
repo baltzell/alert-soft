@@ -41,9 +41,11 @@ Nothing exists yet
   * single events with extrememly long processing times cause issues
 
 # Offline
+## Existing tools (pending ALERT integration)
 * ced can visualize tracks, clusters, etc.
 * timelines (https://github.com/jeffersonlab/clas12-timeline)
   * for monitoring time-dependence of calibrations
+* dedicated monitoring "suite", a'la mon12
 # Calibration 
 ## ALERT Suite
 ## Alignment 
