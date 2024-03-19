@@ -12,7 +12,9 @@
 * AHDC
   * Time-to-distance/DOCA(?) in GEMC in progress, based on Garfield
 * ATOF
-  * Some light propagation time and enegery attenuation exists
+  * Some light propagation time and energy attenuation exists
+  * A photo-electron efficiency exists
+  * No conversion to ADC currently?
 
 # Reconstruction (COATJAVA)
 ## ATOF
