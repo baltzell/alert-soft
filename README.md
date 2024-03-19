@@ -11,10 +11,11 @@
   * How good does it need to be before investing more in reconstruction?
 * AHDC
   * Time-to-distance/DOCA(?) in GEMC in progress, based on Garfield
+  * Conversion from GeV to ADC?
 * ATOF
   * Some light propagation time and energy attenuation exists
   * A photo-electron efficiency exists
-  * No conversion to ADC currently?
+  * No conversion from GeV to ADC currently?
 
 # Reconstruction (COATJAVA)
 ## ATOF
