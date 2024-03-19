@@ -1,4 +1,3 @@
-
 # Geometry
 * AHDC and ATOF geometry services exist in COATJAVA and export to GEMC.
 * Detector materials, target, support geometries should be checked. 
@@ -10,16 +9,23 @@
   * How good does it need to be before investing more in reconstruction?
 * Time-to-distance/DOCA (?) in GEMC in progress, based on Garfield. 
 
+# Reconstruction
+## ATOF
+## AHDC
 
 # Online
 What exactly is required to confirm ALERT is recording good data?
 ## Existing tools
 * slow controls
 * mon12/hydra https://github.com/jeffersonlab/mon12
-  * information is limited to ADC/TDC banks
+  * limited to ADC/TDC banks
   * visualize 1/2-D histograms
 * ced
+  * 2D/3D visualization of ADC/TDC hits
+  * offline it can draw tracks, clusters, etc. 
 * online recon
+  * runs CLARA services 
+  * single events with extrememly long processing times cause issues
 
 # Calibration 
 ## ALERT Suite
