@@ -43,8 +43,9 @@ Nothing exists yet
   * single events with extrememly long processing times cause issues
 
 # Offline
-* Monitoring time-dependence of calibrations (https://github.com/jeffersonlab/clas12-timeline)
-
+* ced can visualize tracks, clusters, etc.
+* timelines (https://github.com/jeffersonlab/clas12-timeline)
+  * for monitoring time-dependence of calibrations
 # Calibration 
 ## ALERT Suite
 ## Alignment 
