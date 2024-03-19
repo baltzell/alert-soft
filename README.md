@@ -19,7 +19,7 @@
 
 # Reconstruction (COATJAVA)
 ## ATOF
-* Nothing exists yet
+Nothing exists yet
 1. Use geometry service to retrieve positions and dimensions of scintillator hits
 1. Convert ADC/TDC to GeV/ns
 ## AHDC
