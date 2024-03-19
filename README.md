@@ -8,12 +8,10 @@
   * With sector/layer/component/order
   * Finalizing dependent on data from the hardware?
 * AHDC
-  * Perpindicular drift time propogation
-  * Some energy attenuation
+  * Currently includes a perpindicular drift time propogation and simple energy attenuation
   * Time-to-distance/DOCA(?) in progress, based on Garfield
 * ATOF
-  * Some light propagation time and energy attenuation exists
-  * A photo-electron efficiency exists
+  * Curreently includes a light propagation time, energy attenuation, and photo-electron efficiency
 
 # Reconstruction (COATJAVA)
 ## ATOF
