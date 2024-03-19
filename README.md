@@ -30,7 +30,7 @@ Nothing exists yet
 # Online
 * What exactly is required to confirm ALERT is recording good data?
 * Do pedestals need to be monitored?
-## Existing tools
+## Existing tools (pending ALERT integration)
 * slow controls
 * mon12/hydra https://github.com/jeffersonlab/mon12
   * limited to ADC/TDC banks
