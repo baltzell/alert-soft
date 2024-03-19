@@ -42,6 +42,9 @@ Nothing exists yet
   * runs CLARA services 
   * single events with extrememly long processing times cause issues
 
+# Offline
+* Monitoring time-dependence of calibrations (https://github.com/jeffersonlab/clas12-timeline)
+
 # Calibration 
 ## ALERT Suite
 ## Alignment 
