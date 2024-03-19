@@ -3,7 +3,7 @@
 * Detector materials, target, support geometries should be checked
 
 # Digitization (GEMC)
-* Sensitive volumes record GEANT hits, output in GEMC truth bank
+* ALERT sensitive volumes record GEANT hits and output in GEMC truth bank
 * ADC/TDC banks also output from GEMC
   * With sector/layer/component/order
   * Contents/schema not final, pending real data(?)
