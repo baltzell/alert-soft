@@ -28,8 +28,8 @@ Nothing exists yet
 * DOCA/Time-to-distance(?) in progress
 
 # Online
-What exactly is required to confirm ALERT is recording good data?
-Do pedestals need to be monitored?
+* What exactly is required to confirm ALERT is recording good data?
+* Do pedestals need to be monitored?
 ## Existing tools
 * slow controls
 * mon12/hydra https://github.com/jeffersonlab/mon12
