@@ -8,7 +8,9 @@
   * Contents/schema not final, pending real data(?)
 * How sophisticated is the GeV/ns -> ADC/TDC model?
   * How good does it need to be before investing more in reconstruction?
-* Time-to-distance/DOCA (?) in GEMC in progress, based on Garfield
+* AHDC
+  * Time-to-distance/DOCA (?) in GEMC in progress, based on Garfield
+* ATOF
 
 # Reconstruction (COATJAVA)
 ## ATOF
