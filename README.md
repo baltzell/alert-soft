@@ -5,12 +5,14 @@
 # Digitization (GEMC)
 * Sensitive volumes record GEANT hits, output in GEMC truth bank
 * ADC/TDC banks also output from GEMC
+  * With sector/layer/component/order
   * Contents/schema not final, pending real data(?)
 * How sophisticated is the GeV/ns -> ADC/TDC model?
   * How good does it need to be before investing more in reconstruction?
 * AHDC
-  * Time-to-distance/DOCA (?) in GEMC in progress, based on Garfield
+  * Time-to-distance/DOCA(?) in GEMC in progress, based on Garfield
 * ATOF
+  * Some light propagation time and enegery attenuation exists
 
 # Reconstruction (COATJAVA)
 ## ATOF
@@ -22,6 +24,7 @@
 * Kalmna filtering exists
   * parameters require tuning, e.g., uncertainties, currently copied from an RTPC
 * Simple, helicial fit is currently not available (?)
+* DOCA/Time-to-distance(?) in progress
 
 # Online
 What exactly is required to confirm ALERT is recording good data?
