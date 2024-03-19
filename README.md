@@ -18,6 +18,7 @@
 Nothing exists yet
 1. Use geometry service to retrieve positions and dimensions of scintillator hits
 1. Convert ADC/TDC to GeV/ns
+1. Clustering (particularly wedges?)
 ## AHDC
 * Simple clustering and track finding exists
 * Kalmna filtering exists
